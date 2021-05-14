@@ -1,0 +1,11 @@
+127.0.0.1 - - [14/May/2021:23:21:55 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [14/May/2021:23:22:21 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/May/2021:23:22:30 +0530] "GET /GBproduct/items.jsp HTTP/1.1" 200 2578
+0:0:0:0:0:0:0:1 - - [14/May/2021:23:22:30 +0530] "GET /GBproduct/Views/bootstrap.min.css HTTP/1.1" 200 193312
+0:0:0:0:0:0:0:1 - - [14/May/2021:23:22:30 +0530] "GET /GBproduct/Components/jquery-3.6.0.min.js HTTP/1.1" 200 89501
+0:0:0:0:0:0:0:1 - - [14/May/2021:23:22:30 +0530] "GET /GBproduct/Components/items.js HTTP/1.1" 200 3621
+0:0:0:0:0:0:0:1 - - [14/May/2021:23:23:33 +0530] "GET /GBproduct/items.jsp HTTP/1.1" 200 2578
+0:0:0:0:0:0:0:1 - - [14/May/2021:23:23:33 +0530] "GET /GBproduct/Views/bootstrap.min.css HTTP/1.1" 200 193312
+0:0:0:0:0:0:0:1 - - [14/May/2021:23:23:33 +0530] "GET /GBproduct/Components/jquery-3.6.0.min.js HTTP/1.1" 200 89501
+0:0:0:0:0:0:0:1 - - [14/May/2021:23:23:33 +0530] "GET /GBproduct/Components/items.js HTTP/1.1" 200 3621
+0:0:0:0:0:0:0:1 - - [14/May/2021:23:23:36 +0530] "GET /favicon.ico HTTP/1.1" 404 762
